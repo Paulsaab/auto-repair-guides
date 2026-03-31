@@ -10,10 +10,6 @@ Welcome to my repository! Here you'll find **DIY car maintenance tutorials**, **
 - [Oil Change Guide](Oil_Change_Guide.md) – How to change engine oil and maintain engine performance.
 - [Battery Maintenance Guide](Battery_Maintenance.md) – Tips to check and maintain your car battery.
 
-## Images
-
-![Brake Pads](images/brake_pad.jpg)
-![Oil Change](images/oil_change.jpg)
 
 ## Contact & Website
 
